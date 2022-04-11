@@ -1,4 +1,4 @@
 # 04 - PipesApp
 
-Contiene pipes personalizados, el más interezande es el 
+Contiene pipes personalizados, el más interezante es el 
 **ordenar.**
